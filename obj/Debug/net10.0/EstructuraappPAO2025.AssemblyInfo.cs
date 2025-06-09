@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstructuraappPAO2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+382667fc1d7dcd489914469357e5f34dc120ca63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dbff6fef5f1485bd65e36c7611a7165cf4e8f54")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstructuraappPAO2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstructuraappPAO2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
