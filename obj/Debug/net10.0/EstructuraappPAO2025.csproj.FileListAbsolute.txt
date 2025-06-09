@@ -1,0 +1,5 @@
+C:\Users\askin\Documents\proyectos\ESTRUCTURA DE DATOS\EstructuraappPAO2025\obj\Debug\net10.0\EstructuraappPAO2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin\Documents\proyectos\ESTRUCTURA DE DATOS\EstructuraappPAO2025\obj\Debug\net10.0\EstructuraappPAO2025.AssemblyInfoInputs.cache
+C:\Users\askin\Documents\proyectos\ESTRUCTURA DE DATOS\EstructuraappPAO2025\obj\Debug\net10.0\EstructuraappPAO2025.AssemblyInfo.cs
+C:\Users\askin\Documents\proyectos\ESTRUCTURA DE DATOS\EstructuraappPAO2025\obj\Debug\net10.0\EstructuraappPAO2025.csproj.CoreCompileInputs.cache
+C:\Users\askin\Documents\proyectos\ESTRUCTURA DE DATOS\EstructuraappPAO2025\obj\Debug\net10.0\EstructuraappPAO2025.sourcelink.json
